@@ -11,7 +11,8 @@ environment:
 
 dependencies:
   shelf:
-    path: ../shelf/pkgs/shelf
+  # shelf:
+  #   path: ../shelf/pkgs/shelf
   stream_channel: ^2.1.0
   web_socket_channel: ^2.0.0
 
